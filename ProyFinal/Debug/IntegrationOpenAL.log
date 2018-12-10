@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\sys\documents\visual studio 2017\computaciongraficaavanzada\proyfinal\src\headers\inputmanager.h(87): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+c:\users\sys\documents\visual studio 2017\computaciongraficaavanzada\proyfinal\src\headers\collision.h(24): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sys\documents\visual studio 2017\computaciongraficaavanzada\proyfinal\src\headers\collision.h(25): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sys\documents\visual studio 2017\computaciongraficaavanzada\proyfinal\src\main.cpp(394): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\sys\documents\visual studio 2017\computaciongraficaavanzada\proyfinal\src\main.cpp(399): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\sys\documents\visual studio 2017\computaciongraficaavanzada\proyfinal\src\main.cpp(406): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\sys\documents\visual studio 2017\computaciongraficaavanzada\proyfinal\src\main.cpp(405): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\sys\documents\visual studio 2017\computaciongraficaavanzada\proyfinal\src\main.cpp(416): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\sys\documents\visual studio 2017\computaciongraficaavanzada\proyfinal\src\main.cpp(884): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sys\documents\visual studio 2017\computaciongraficaavanzada\proyfinal\src\main.cpp(846): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  IntegrationOpenAL.vcxproj -> C:\Users\Sys\Documents\Visual Studio 2017\ComputacionGraficaAvanzada\Debug\IntegrationOpenAL.exe
